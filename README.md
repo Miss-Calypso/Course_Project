@@ -113,7 +113,7 @@ terraform apply
 After running the last command, wait until it is finished and you are done setting up your minecraft server.
 In your terminal there will be a public IP of the server that you can use to connect to your game!
 
-## Recources Used
+## Resources Used
 This project incorporates concepts and code snippets from these valuable resources:
 
 1. **Linux Minecraft Server Setup Guide**:
